@@ -4,3 +4,6 @@
     file explorer
 #### in progress:
     create/edit/delete file 
+
+#### dependencies
+    libssh, Qt
